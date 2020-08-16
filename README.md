@@ -15,18 +15,18 @@ Using pretrained posnet model from tensorflow.js repository the pose of a dance 
 * In case you want to use your own video, make sure to have the path as same as where you save this repository.</br>
 * Open commandline and navigate to the folder of the downloaded repository.</br>
 * Run the command <code>**python -m http.server 1337**</code>, so as to create a local server on your local machine so as to host the HTML file.</br> 
-* In a new chrome tab navigate to **localhost:1337/index.html** .</br> 
+* In a new chrome tab navigate to <code>**localhost:1337/index.html**</code> .</br> 
 * If the FPS tab on the upper left corner is showing zero, refresh the page to load the model.</br>
 * Play the loaded vide to observe the estimated pose.</br>
-* Pause the video whenever you get the desired output and this will download a **.WEBM** file automatically.</br>
-* For playing the **.WEBM**file drag it to a new chrome tab.</br>
+* Pause the video whenever you get the desired output and this will download a <code>**.WEBM**</code> file automatically.</br>
+* For playing the <code>**.WEBM**</code>file drag it to a new chrome tab.</br>
 
 
 ## Description 
 
-* *camera.js* is used to generate a camera feed for recording the video and using SinglePose and MultiPose estimation for single and multiple person respectively.
-* *demo_util.js* generates a canvas and plots the joints and lines for real-time human pose estimation.
-* *index.html* creates a web page for running the model using local host server. 
+* <code>*camera.js*</code> is used to generate a camera feed for recording the video and using SinglePose and MultiPose estimation for single and multiple person respectively.
+* <code>*demo_util.js*</code> generates a canvas and plots the joints and lines for real-time human pose estimation.
+* <code>*index.html*</code> creates a web page for running the model using local host server. 
 
 
 
