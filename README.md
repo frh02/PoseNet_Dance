@@ -14,12 +14,13 @@ Using pretrained posnet model from tensorflow.js repository the pose of a dance 
 * Clone the repository</br>
 * In case you want to use your own video, make sure to have the path as same as where you save this repository.</br>
 * Open commandline and navigate to the folder of the downloaded repository.</br>
-* Run the command <code>**python -m http.server 1337**</code>, so as to create a local server on your local machine so as to host the HTML file.</br> 
+* Run the command <code>**python -m http.server 1337**</code>in the commandline, so as to create a local server on your local machine so as to host the HTML file.</br> 
 * In a new chrome tab navigate to <code>**localhost:1337/index.html**</code> .</br> 
-* If the FPS tab on the upper left corner is showing zero, refresh the page to load the model.</br>
-* Play the loaded vide to observe the estimated pose.</br>
+* If the FPS tab on the upper left corner is showing zero, refresh the page to load the model again.</br>
+* Play the loaded video to observe the estimated pose.</br>
 * Pause the video whenever you get the desired output and this will download a <code>**.WEBM**</code> file automatically.</br>
 * For playing the <code>**.WEBM**</code>file drag it to a new chrome tab.</br>
+* If there is more than one person then switch to multipose Estimation using the slidebar drawer in the right conner of the window. </br>
 
 
 ## Description 
