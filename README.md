@@ -14,7 +14,7 @@ Using pretrained posnet model from tensorflow.js repository the pose of a dance 
 * Clone the repository</br>
 * In case you want to use your own video, make sure to have the path as same as where you save this repository.</br>
 * Open commandline and navigate to the folder of the downloaded repository.</br>
-* Run the comman "python -m http.server 1337", so as to create a local server on your local machine so as to host the HTML file.</br> 
+* Run the comman **python -m http.server 1337**, so as to create a local server on your local machine so as to host the HTML file.</br> 
 * In a new chrome tab navigate to "localhost:1337/index.html" .</br> 
 * If the FPS tab on the upper left corner is showing zero, refresh the page to load the model.</br>
 * Play the loaded vide to observe the estimated pose.</br>
