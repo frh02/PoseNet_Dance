@@ -7,7 +7,7 @@ Using pretrained posnet model from tensorflow.js repository the pose of a dance 
 
 
 ## GIF of the output 
-![Alt Text](https://github.com/neha01/danceSkeleton/blob/master/skeletal.gif)
+![Alt Text](https://github.com/frh02/PoseNet_Dance/blob/master/Dance_Pose.gif)
 
 ## Steps to follow 
 
