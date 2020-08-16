@@ -20,7 +20,7 @@ Using pretrained posnet model from tensorflow.js repository the pose of a dance 
 * Play the loaded video to observe the estimated pose.</br>
 * Pause the video whenever you get the desired output and this will download a <code>**.WEBM**</code> file automatically.</br>
 * For playing the <code>**.WEBM**</code>file drag it to a new chrome tab.</br>
-* If there is more than one person then switch to multipose Estimation using the slidebar drawer in the right conner of the window. </br>
+* If there is more than one person then switch to multipose Estimation using the slidebar drawer in the right corner of the window. </br>
 
 
 ## Description 
