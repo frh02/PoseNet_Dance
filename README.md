@@ -30,5 +30,6 @@ Using pretrained posnet model from tensorflow.js repository the pose of a dance 
 * <code>*index.html*</code> creates a web page for running the model using local host server. 
 
 
+## Result 
 
-
+The result to this project is given in file <code>**Demo_Video**</code> in the name of <code>https://github.com/frh02/PoseNet_Dance/blob/master/Demo_Video/pose_estimated_dance.mp4</code>. </br>
